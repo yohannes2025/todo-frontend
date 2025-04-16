@@ -613,7 +613,7 @@ The `Settings` component provides a customizable user preferences interface, all
 This component enhances user control over their experience by offering configurable settings for appearance, scheduling, and communication preferences. It supports a more personalized and user-friendly app environment.
 .
 
-### Create Task Component
+### Create Task Page Component
 
 The `CreateTask` component provides a user-friendly interface for creating new tasks within the productivity app.
 
