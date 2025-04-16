@@ -511,6 +511,22 @@ The `HomePage` component acts as the **landing page** for the Productivity App, 
 
 This component sets the tone for the application by welcoming users and providing them with clear actions to begin their productivity journey — whether by signing up or logging in.
 
+### User Registration Component
+
+`Register.js` is a React component that handles user registration for the application. It provides a responsive and user-friendly form where new users can create an account by entering their **name**, **email**, and **password**.
+
+#### Features
+
+**Form Inputs**: Uses controlled components (`useState`) to capture user input for name, email, and password.
+**API Integration**: Sends a POST request to the `/register` endpoint using a custom `api` service (Axios).
+**Navigation**: Redirects users to the login page (`/login`) after successful registration using `useNavigate` from `react-router-dom`.
+**Error Handling**: Displays an error alert if the registration request fails (e.g., email already in use).
+**Responsive Design**: Uses Bootstrap's `Container`, `Row`, `Col`, and `Card` for clean, mobile-friendly layout.
+**Styling**: Uses Bootstrap components to ensure the UI is modern and consistent with the rest of the application.
+
+This component is a key part of the user authentication flow and helps ensure a smooth onboarding experience for new users.
+
+
 ### Profile Page Component
 
 The `Profile` component allows users to **view and update their personal profile information** in an intuitive and user-friendly interface.
