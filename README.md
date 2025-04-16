@@ -360,7 +360,7 @@ This application is built to ensure a **seamless user experience** in maintainin
 - **Heroku** – Deployment of the API to a cloud platform.
 - **Environment Variables** – Securing sensitive credentials and configuration.
 
-#### Tools & Project Management
+### Tools & Project Management
 
 - **VS Code** – Source code editor with extensions for React and Django.
 - **Github** - Used for project management and version control.
