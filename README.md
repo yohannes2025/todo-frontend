@@ -646,7 +646,7 @@ The `EditTask` component allows users to update and modify existing tasks throug
 
 This component is designed to help users efficiently update tasks without needing to recreate them, making collaboration and task management smoother.
 
-### TaskList page Component
+### Task List page Component
 
 The `TaskList` component provides users with an interactive view of their tasks. It includes features for searching, filtering, sorting, and managing tasks.
 
