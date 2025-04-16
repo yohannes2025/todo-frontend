@@ -9,7 +9,7 @@ This application is built to ensure a **seamless user experience** in maintainin
 - [Technologies used](#technologies-used)
     - [Front-End](#front-end)
     - [Back-End](#Back-End)
-    - [Tooling & Project Management](#tooling-&-prodject-management)
+    - [Tooling & Project Management](#tooling-and-prodject-management)
 - [Design](#design)
   - [Color Scheme](#color-scheme)
   - [Typography](#typography)
@@ -360,7 +360,7 @@ This application is built to ensure a **seamless user experience** in maintainin
 - **Heroku** – Deployment of the API to a cloud platform.
 - **Environment Variables** – Securing sensitive credentials and configuration.
 
-### Tooling & Project Management
+### Tooling And Project Management
 
 - **VS Code** – Source code editor with extensions for React and Django.
 - **Github** - Used for project management and version control.
