@@ -6,7 +6,7 @@ This application is built to ensure a **seamless user experience** in maintainin
 ## Table of Contents
 
 - [User Stories for Productivity App](#user-stories-for-productivity-app)
-- [Break Down of User Stories into Tasks](#break_down_of_user_stories_into_tasks)
+- [Break Down Of User Stories Into Tasks](#break_down_of_user_stories_into_tasks)
 
 - [Technologies used](#technologies-used)
     - [Front-End](#front-end)
@@ -198,7 +198,7 @@ This application is built to ensure a **seamless user experience** in maintainin
 - The app is fully responsive and functional across different screen sizes.
 - Users should have a consistent experience with easy navigation and task management features.
 
-## Break down of user stories into tasks
+## Break Down Of User Stories Into Tasks
 
 ### User Story 1: Account Creation & Login
 
