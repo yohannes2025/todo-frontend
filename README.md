@@ -439,6 +439,9 @@ Wireframes were created using Balsamiq and informed the React component structur
 - Each component handles specific logic and layout responsibilities, following separation of concerns.
 - Components use either **functional** or **class-based** approaches, where appropriate.
 
+### Accessibility
+- Accessibility has been a core focus throughout the development of this content-sharing web application to ensure an inclusive, user-friendly experience for a diverse audience, including users with disabilities.
+
 ## Agile Methodology
 
 - Due to time constraint Agile Methodoly was not applied
@@ -447,7 +450,7 @@ Wireframes were created using Balsamiq and informed the React component structur
 
 ### Existing Features
 
-#### 🔧General Features
+#### General Features
 
 - Create tasks with custom **due dates**
 - Automatically mark tasks as **overdue**
