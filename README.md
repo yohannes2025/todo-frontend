@@ -27,7 +27,7 @@ This application is built to ensure a **seamless user experience** in maintainin
     - [User Login Page Component](#user-login-component)
     - [Profile Page Component](#profile-page-component)
     - [Settings Page Component](#settings-page-component)
-    - [Create Task Page Component](#creat-task-page-component)
+    - [Create Task Page Component](#create-task-page-component)
     - [Edit Task Page Component](#edit-task-page-component)
     - [Task List Page Component](#task-list-page-component)
 - [Break down of user stories into tasks](#break_down_of_user_stories_into_tasks)
