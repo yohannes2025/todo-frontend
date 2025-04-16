@@ -6,10 +6,13 @@ This application is built to ensure a **seamless user experience** in maintainin
 ## Table of Contents
 
 - [User Stories for Productivity App](#user-stories-for-productivity-app)
+- [Break Down of User Stories into Tasks](#break_down_of_user_stories_into_tasks)
+
 - [Technologies used](#technologies-used)
     - [Front-End](#front-end)
     - [Back-End](#Back-End)
     - [Tools & Project Managaement](#tools-and-prodject-management)
+
 - [Design](#design)
   - [Color Scheme](#color-scheme)
   - [Typography](#typography)
@@ -17,6 +20,7 @@ This application is built to ensure a **seamless user experience** in maintainin
   - [Component-Based Architecture](#component-based-architecture)
   - [Accessibility](#accessibility)
   - [Agile Methodology](#agile-methodology)
+
 - [Features](#features)
   - [Existing Features](#existing-features)
     - [General Features](#general-features)
@@ -30,10 +34,6 @@ This application is built to ensure a **seamless user experience** in maintainin
     - [Create Task Page Component](#create-task-page-component)
     - [Edit Task Page Component](#edit-task-page-component)
     - [Task List Page Component](#task-list-page-component)
-- [Break down of user stories into tasks](#break_down_of_user_stories_into_tasks)
-  - [Languages Used](#languages-used)
-  - [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
-  - [Other Technologies Used](#other-technologies-used)
 
 - [Deployment](#deployment)
 
