@@ -6,7 +6,7 @@ This application is built to ensure a **seamless user experience** in maintainin
 ## Table of Contents
 
 - [User Stories for Productivity App](#user-stories-for-productivity-app)
-- [Technologies used](#technologies_used)
+- [Technologies used](#technologies-used)
     - [Front-End](#front-end)
     - [Back-End](#Back-End)
     - [Tooling & Project Management](#tooling-&-prodjuct-management)
