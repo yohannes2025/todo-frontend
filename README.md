@@ -23,8 +23,8 @@ This application is built to ensure a **seamless user experience** in maintainin
     - [Navigation Bar](#navigation-bar)
     - [Home Page Component](#home-page-component)
     - [Profile Page Component](#profile-page-component)
-    - [Registration Page Component](#registration-page-component)
-    - [Login Page Component](#login-page-component)
+    - [User Register Page Component](#user-register-page-component)
+    - [User Login Page Component](#user-login-page-component)
     - [Profile Page Component](#profile-page-component)
     - [Settings Page Component](#settings-page-component)
     - [Create Task Page Component](#creat-task-page-component)
@@ -511,7 +511,7 @@ The `HomePage` component acts as the **landing page** for the Productivity App, 
 
 This component sets the tone for the application by welcoming users and providing them with clear actions to begin their productivity journey — whether by signing up or logging in.
 
-### User Registration Component
+### User Register Component
 
 `Register.js` is a React component that handles user registration for the application. It provides a responsive and user-friendly form where new users can create an account by entering their **name**, **email**, and **password**.
 
@@ -525,6 +525,22 @@ This component sets the tone for the application by welcoming users and providin
 **Styling**: Uses Bootstrap components to ensure the UI is modern and consistent with the rest of the application.
 
 This component is a key part of the user authentication flow and helps ensure a smooth onboarding experience for new users.
+
+### User Login Component
+
+`Login.js` is a React component that handles user authentication. It provides a simple login form for users to enter their **email** and **password**, and securely access the app.
+
+#### Features
+
+**Controlled Form**: Uses React `useState` to manage input fields (`email`, `password`) via `formData`.
+**API Authentication**: Sends user credentials to a backend login endpoint using a custom `api` service.
+**Token Storage**: On successful login, saves the JWT token to `localStorage` for authenticated API access.
+**Navigation**: Redirects the user to the home page (`/`) using `useNavigate` from `react-router-dom`.
+**Responsive Layout**: Utilizes Bootstrap’s `Container`, `Row`, `Col`, and `Card` components for a clean, responsive UI.
+**Form Styling**: Styled with React-Bootstrap components for consistency across the app.
+
+This component is a core part of the authentication system, providing a secure and user-friendly way for users to log in to the app.
+
 
 
 ### Profile Page Component
