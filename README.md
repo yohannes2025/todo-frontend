@@ -9,7 +9,7 @@ This application is built to ensure a **seamless user experience** in maintainin
 - [Technologies used](#technologies-used)
     - [Front-End](#front-end)
     - [Back-End](#Back-End)
-    - [Tooling & Project Management](#tooling-&-prodjuct-management)
+    - [Tooling & Project Management](#tooling-&-prodject-management)
 - [Design](#design)
   - [Color Scheme](#color-scheme)
   - [Typography](#typography)
