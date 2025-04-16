@@ -511,7 +511,7 @@ The `HomePage` component acts as the **landing page** for the Productivity App, 
 
 This component sets the tone for the application by welcoming users and providing them with clear actions to begin their productivity journey — whether by signing up or logging in.
 
-### Profile Component
+### Profile Page Component
 
 The `Profile` component allows users to **view and update their personal profile information** in an intuitive and user-friendly interface.
 
@@ -542,7 +542,7 @@ The `Profile` component allows users to **view and update their personal profile
 
 This component offers a centralized profile management interface, allowing users to easily keep their information up to date and view key account data. It enhances user experience through an accessible, responsive, and functional design.
 
-### Settings Component
+### Settings Page Component
 
 The `Settings` component provides a customizable user preferences interface, allowing users to tailor the app experience to their needs.
 
@@ -581,7 +581,7 @@ The `Settings` component provides a customizable user preferences interface, all
 This component enhances user control over their experience by offering configurable settings for appearance, scheduling, and communication preferences. It supports a more personalized and user-friendly app environment.
 .
 
-### Create Task Component
+### Create Task Page Component
 
 The `CreateTask` component provides a user-friendly interface for creating new tasks within the productivity app.
 
@@ -611,7 +611,7 @@ The `CreateTask` component provides a user-friendly interface for creating new t
 
 Enables users to easily create detailed, collaborative tasks with due dates, priorities, and attachments—empowering productivity and team coordination.
 
-### Edit Task Component
+### Edit Task Page Component
 
 The `EditTask` component allows users to update and modify existing tasks through an intuitive form-based UI.
 
@@ -646,7 +646,7 @@ The `EditTask` component allows users to update and modify existing tasks throug
 
 This component is designed to help users efficiently update tasks without needing to recreate them, making collaboration and task management smoother.
 
-### TaskList Component
+### TaskList page Component
 
 The `TaskList` component provides users with an interactive view of their tasks. It includes features for searching, filtering, sorting, and managing tasks.
 
